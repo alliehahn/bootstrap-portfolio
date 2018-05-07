@@ -1,0 +1,42 @@
+.header {
+    padding: 30px;
+    color: whitesmoke;
+    background: rgb(90, 87, 87);
+  }
+
+body {
+    background-image: url("../images/vertical-waves.png");
+}
+#box {
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+a {
+    color:rgb(218, 202, 202)
+}
+
+a:hover {
+    color: lightcoral;
+}
+
+h1 {
+    padding: 3px;
+    color: lightcoral;
+}
+
+.portfolio {
+    padding: 4px;
+}
+
+.title {
+    padding: 9px;
+}
+
+.card {
+    margin: 10px;
+    background-color: lightslategray;
+    text-align: center;
+}
